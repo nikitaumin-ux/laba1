@@ -7,7 +7,7 @@ def rectangle():
         if a <= 0 or b <= 0:
             print("Ошибка: Стороны прямоугольника должны быть больше нуля")
             return
-        P = 2 * (a + b)
+        P = 2 * (a + b) (("nahod_perimer"))
         S = a * b
         d = math.sqrt(a**2 + b**2)
 
